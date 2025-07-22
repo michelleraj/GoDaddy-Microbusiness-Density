@@ -39,4 +39,13 @@ A dataset containing microbusiness-related statistics by county across monthly t
 
 ---
 
+<img width="1145" height="512" alt="Screenshot 2025-07-22 at 6 08 44 PM" src="https://github.com/user-attachments/assets/8ce0a9ee-6ad3-4000-9905-f169ae3bbc5e" />
+
+
+<img width="1147" height="499" alt="Screenshot 2025-07-22 at 6 07 57 PM" src="https://github.com/user-attachments/assets/d2244f5b-cd0f-422f-b7e4-6b0321522e32" />
+
+<img width="1146" height="505" alt="Screenshot 2025-07-22 at 6 07 22 PM" src="https://github.com/user-attachments/assets/9237134f-6694-4e8f-b2b5-a0d1fbb6ae71" />
+
+<img width="1159" height="514" alt="Screenshot 2025-07-22 at 6 06 23 PM" src="https://github.com/user-attachments/assets/4e57e974-dc16-4856-949c-8334dda7b84c" />
+
 

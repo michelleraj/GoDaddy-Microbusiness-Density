@@ -84,6 +84,20 @@ Use Case: Understand long-term economic momentum or contraction.
 
 <img width="1150" height="504" alt="Screenshot 2025-07-22 at 7 06 39 PM" src="https://github.com/user-attachments/assets/4bb0bd3e-f32b-4257-af37-06698682aace" />
 
+### 🏅 County Rankings Within Each State
+Objective: Rank counties within their respective states based on their latest density value.
+
+Use Case: Allow state-level policymakers to identify standout or underperforming counties.
+<img width="1154" height="486" alt="Screenshot 2025-07-22 at 8 21 44 PM" src="https://github.com/user-attachments/assets/2ad0435c-8fdb-450d-8142-dc91a6035a4f" />
+
+### 📍 County Rank Over Time
+Objective: Track how a county’s rank changes month-to-month within its state.
+
+Use Case: Evaluate the consistency or volatility of local economic performance.
+<img width="1174" height="511" alt="Screenshot 2025-07-22 at 8 25 32 PM" src="https://github.com/user-attachments/assets/ecd4f919-bfd4-4452-a83f-206ecd2e5032" />
+
+
+
 ### 🧭 Potential High-Growth Areas with Low Base
 Objective: Identify counties with low density but fast growth, signaling potential for economic development.
 
